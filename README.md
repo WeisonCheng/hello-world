@@ -1,2 +1,1 @@
-nihaowoyaohe
 # hello-world
